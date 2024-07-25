@@ -15,4 +15,9 @@
 <a href="www.linkedin.com/in/igor-matias-339a91233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=j,office,html,css,python,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=j,java,js,html,css,python,mysql,flutter&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=j,java,js,html,css,python,mysql" />
+  </a>
+</p>
